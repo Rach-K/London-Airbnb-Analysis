@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Spark/Hive logs
+derby.log
+metastore_db/db.lck
+
+# IDE
+.vscode/
+.idea/
